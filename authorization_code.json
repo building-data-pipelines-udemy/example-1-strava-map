@@ -1,0 +1,4 @@
+{ "authorization":{
+    "authorization_code": "63011ec235fbd61f486008a28a6016b4fa6d4ef7",
+    "url": "http://www.strava.com/oauth/authorize?client_id=42205&response_type=code&redirect_uri=http://localhost/exchange_token&approval_prompt=force&scope=profile:read_all,activity:read_all"
+}}
