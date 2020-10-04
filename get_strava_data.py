@@ -14,7 +14,6 @@ def main():
     access_token = strava_config['access_token']
     url_code = strava_config['url_code']
 
-
     print('looking for authorization code - make sure to update!')
     authorization_code_config = pd.read_json('authorization_code.json') ## strava-example-bucket/ bucket update
     authorization_code = authorization_code_config['authorization']['authorization_code']
