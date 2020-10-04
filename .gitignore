@@ -1,3 +1,7 @@
+config.json
+authorization_code.json
+*.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
