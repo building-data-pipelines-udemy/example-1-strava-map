@@ -5,6 +5,102 @@
       "type": "Feature",
       "properties": {
         "": "0",
+        "id": "4149773823.0",
+        "name": "Morning walk ",
+        "start_date_local": "2020-10-04T07:27:50Z",
+        "type": "Walk",
+        "distance": "2234.1",
+        "moving_time": "2015.0",
+        "elapsed_time": "2566.0",
+        "total_elevation_gain": "0.0",
+        "external_id": "9C7F44CD-BD9D-4853-994C-07D53D9F2CF7-activity.fit",
+        "average_speed": "1.109",
+        "max_speed": "2.1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.032992,
+          26.701785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "1",
+        "id": "4147588500.0",
+        "name": "Rainy run",
+        "start_date_local": "2020-10-03T19:18:36Z",
+        "type": "Run",
+        "distance": "2950.4",
+        "moving_time": "867.0",
+        "elapsed_time": "885.0",
+        "total_elevation_gain": "2.6",
+        "external_id": "0F3E98D1-8922-4595-9234-C16D4015CA29-activity.fit",
+        "average_speed": "3.403",
+        "max_speed": "4.4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.079185,
+          26.730513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "2",
+        "id": "4146807120.0",
+        "name": "Marshland Hike",
+        "start_date_local": "2020-10-03T13:19:40Z",
+        "type": "Hike",
+        "distance": "2343.0",
+        "moving_time": "2165.0",
+        "elapsed_time": "2616.0",
+        "total_elevation_gain": "0.0",
+        "external_id": "733F6951-CC01-4FAE-9D70-EB56600A5B1E-activity.fit",
+        "average_speed": "1.082",
+        "max_speed": "2.3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.146274,
+          26.760974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "3",
+        "id": "4139660884.0",
+        "name": "Evening Run",
+        "start_date_local": "2020-10-01T19:22:52Z",
+        "type": "Run",
+        "distance": "5155.9",
+        "moving_time": "1469.0",
+        "elapsed_time": "1493.0",
+        "total_elevation_gain": "0.0",
+        "external_id": "5690AE0F-4A9F-42BE-A774-1DD583A7E002-activity.fit",
+        "average_speed": "3.51",
+        "max_speed": "5.2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.078917,
+          26.730473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": "4",
         "id": "4131124755.0",
         "name": "Post-flight Run and burpees",
         "start_date_local": "2020-09-29T23:47:25Z",
@@ -28,7 +124,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "1",
+        "": "5",
         "id": "4131124821.0",
         "name": "Rainy evening ride",
         "start_date_local": "2020-09-28T17:40:02Z",
@@ -52,7 +148,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "2",
+        "": "6",
         "id": "4131124744.0",
         "name": "Noon Run",
         "start_date_local": "2020-09-28T11:46:23Z",
@@ -76,7 +172,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "3",
+        "": "7",
         "id": "4121683704.0",
         "name": "Evening HIIT Run",
         "start_date_local": "2020-09-27T17:51:05Z",
@@ -100,7 +196,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "4",
+        "": "8",
         "id": "4121569392.0",
         "name": "Afternoon Kayaking",
         "start_date_local": "2020-09-27T13:50:13Z",
@@ -124,7 +220,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "5",
+        "": "9",
         "id": "4120515618.0",
         "name": "Trail Run",
         "start_date_local": "2020-09-27T11:10:31Z",
@@ -148,7 +244,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "6",
+        "": "10",
         "id": "4120515451.0",
         "name": "Avalanche preserve hike",
         "start_date_local": "2020-09-27T10:28:25Z",
@@ -172,7 +268,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "7",
+        "": "11",
         "id": "4116805510.0",
         "name": "Afternoon Ride",
         "start_date_local": "2020-09-26T10:49:56Z",
@@ -196,7 +292,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "8",
+        "": "12",
         "id": "4111665332.0",
         "name": "Afternoon Run",
         "start_date_local": "2020-09-25T16:34:58Z",
@@ -220,7 +316,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "9",
+        "": "13",
         "id": "4111665418.0",
         "name": "Evening kayaking",
         "start_date_local": "2020-09-24T16:50:04Z",
@@ -244,7 +340,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "10",
+        "": "14",
         "id": "4106933481.0",
         "name": "Nature Hike",
         "start_date_local": "2020-09-24T10:45:37Z",
@@ -268,7 +364,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "11",
+        "": "15",
         "id": "4106933473.0",
         "name": "Evening run",
         "start_date_local": "2020-09-23T18:08:29Z",
@@ -292,7 +388,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "12",
+        "": "16",
         "id": "4106933401.0",
         "name": "Afternoon Run",
         "start_date_local": "2020-09-23T14:11:22Z",
@@ -316,7 +412,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "13",
+        "": "17",
         "id": "4099244322.0",
         "name": "Afternoon Short Ride",
         "start_date_local": "2020-09-22T16:55:36Z",
@@ -340,7 +436,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "14",
+        "": "18",
         "id": "4099244312.0",
         "name": "Afternoon Kayaking",
         "start_date_local": "2020-09-22T15:41:54Z",
@@ -364,7 +460,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "15",
+        "": "19",
         "id": "4090163360.0",
         "name": "Evening Ride",
         "start_date_local": "2020-09-20T17:59:45Z",
@@ -388,7 +484,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "16",
+        "": "20",
         "id": "4089763705.0",
         "name": "Run and Hike",
         "start_date_local": "2020-09-20T14:29:02Z",
@@ -412,7 +508,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "17",
+        "": "21",
         "id": "4084435242.0",
         "name": "Harbor springs ride",
         "start_date_local": "2020-09-19T16:25:57Z",
@@ -436,7 +532,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "18",
+        "": "22",
         "id": "4070815668.0",
         "name": "Wavy Kayaking",
         "start_date_local": "2020-09-16T17:59:34Z",
@@ -460,7 +556,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "19",
+        "": "23",
         "id": "4069933126.0",
         "name": "Coffee and Biking",
         "start_date_local": "2020-09-16T13:35:34Z",
@@ -484,7 +580,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "20",
+        "": "24",
         "id": "4060815806.0",
         "name": "Evening Leisure Kayak",
         "start_date_local": "2020-09-14T16:30:21Z",
@@ -508,7 +604,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "21",
+        "": "25",
         "id": "4059076679.0",
         "name": "Noon Run",
         "start_date_local": "2020-09-14T12:04:55Z",
@@ -532,7 +628,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "22",
+        "": "26",
         "id": "4059077880.0",
         "name": "Afternoon Ride",
         "start_date_local": "2020-09-12T16:47:58Z",
@@ -556,7 +652,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "23",
+        "": "27",
         "id": "4030749261.0",
         "name": "Lunch Ride",
         "start_date_local": "2020-09-08T12:41:11Z",
@@ -580,7 +676,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "24",
+        "": "28",
         "id": "4023101638.0",
         "name": "Evening ride",
         "start_date_local": "2020-09-06T17:52:05Z",
@@ -604,7 +700,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "25",
+        "": "29",
         "id": "4023101916.0",
         "name": "Afternoon Ride",
         "start_date_local": "2020-09-05T14:22:49Z",
@@ -628,7 +724,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "26",
+        "": "30",
         "id": "4012074237.0",
         "name": "Afternoon Run",
         "start_date_local": "2020-09-04T17:45:13Z",
@@ -652,7 +748,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "27",
+        "": "31",
         "id": "4009978917.0",
         "name": "Afternoon Run",
         "start_date_local": "2020-09-03T14:54:02Z",
@@ -676,7 +772,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "28",
+        "": "32",
         "id": "4002540517.0",
         "name": "Windy Afternoon Ride",
         "start_date_local": "2020-09-02T14:45:05Z",
@@ -700,7 +796,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "29",
+        "": "33",
         "id": "3993265046.0",
         "name": "Evening trail run",
         "start_date_local": "2020-08-31T17:17:42Z",
@@ -724,7 +820,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "30",
+        "": "34",
         "id": "3989234891.0",
         "name": "Evening ride",
         "start_date_local": "2020-08-30T17:30:02Z",
@@ -748,7 +844,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "31",
+        "": "35",
         "id": "3983971634.0",
         "name": "Evening Run",
         "start_date_local": "2020-08-29T17:45:39Z",
@@ -772,7 +868,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "32",
+        "": "36",
         "id": "3983997600.0",
         "name": "Lunch Ride",
         "start_date_local": "2020-08-29T11:14:08Z",
@@ -796,7 +892,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "33",
+        "": "37",
         "id": "3975444072.0",
         "name": "Afternoon Ride",
         "start_date_local": "2020-08-27T14:29:02Z",
@@ -820,7 +916,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "34",
+        "": "38",
         "id": "3970573644.0",
         "name": "Evening run",
         "start_date_local": "2020-08-26T17:17:25Z",
@@ -844,7 +940,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "35",
+        "": "39",
         "id": "3968663766.0",
         "name": "Quick rainy run",
         "start_date_local": "2020-08-26T10:27:53Z",
@@ -868,7 +964,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "36",
+        "": "40",
         "id": "3968664333.0",
         "name": "Lunch Ride",
         "start_date_local": "2020-08-25T12:58:49Z",
@@ -892,7 +988,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "37",
+        "": "41",
         "id": "3961437639.0",
         "name": "Evening Run",
         "start_date_local": "2020-08-24T19:20:13Z",
@@ -916,7 +1012,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "38",
+        "": "42",
         "id": "3928951324.0",
         "name": "Evening Run",
         "start_date_local": "2020-08-17T19:02:02Z",
@@ -940,7 +1036,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "39",
+        "": "43",
         "id": "3918537176.0",
         "name": "Dunes Hike",
         "start_date_local": "2020-08-15T15:25:48Z",
@@ -964,7 +1060,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "40",
+        "": "44",
         "id": "3908568603.0",
         "name": "Leisure Hudson Ride",
         "start_date_local": "2020-08-13T14:04:53Z",
@@ -988,7 +1084,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "41",
+        "": "45",
         "id": "3898755134.0",
         "name": "Quick Manhattan Lunch Loop",
         "start_date_local": "2020-08-11T13:14:46Z",
@@ -1012,7 +1108,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "42",
+        "": "46",
         "id": "3890238018.0",
         "name": "Manhattan —> Brighton Beach Ride",
         "start_date_local": "2020-08-09T14:00:25Z",
@@ -1036,7 +1132,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "43",
+        "": "47",
         "id": "3884434827.0",
         "name": "Hike",
         "start_date_local": "2020-08-08T12:33:26Z",
@@ -1060,7 +1156,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "44",
+        "": "48",
         "id": "3880107325.0",
         "name": "Rainy Manhattan Ride",
         "start_date_local": "2020-08-07T18:10:04Z",
@@ -1084,7 +1180,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "45",
+        "": "49",
         "id": "3875740177.0",
         "name": "Evening run",
         "start_date_local": "2020-08-06T19:15:06Z",
@@ -1108,7 +1204,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "46",
+        "": "50",
         "id": "3855495914.0",
         "name": "Lunch Ride with Karl and Andre",
         "start_date_local": "2020-08-02T11:19:24Z",
@@ -1132,7 +1228,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "47",
+        "": "51",
         "id": "3823436559.0",
         "name": "Hudson River Ride",
         "start_date_local": "2020-07-27T15:08:23Z",
@@ -1156,7 +1252,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "48",
+        "": "52",
         "id": "3816801483.0",
         "name": "Quick Hudson run",
         "start_date_local": "2020-07-26T18:31:25Z",
@@ -1180,7 +1276,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "49",
+        "": "53",
         "id": "3796083268.0",
         "name": "Morning Group Ride",
         "start_date_local": "2020-07-21T06:26:00Z",
@@ -1204,7 +1300,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "50",
+        "": "54",
         "id": "3793292141.0",
         "name": "Afternoon Walk",
         "start_date_local": "2020-07-20T17:48:01Z",
@@ -1228,7 +1324,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "51",
+        "": "55",
         "id": "3788681562.0",
         "name": "Morning Run",
         "start_date_local": "2020-07-19T07:45:42Z",
@@ -1252,7 +1348,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "53",
+        "": "57",
         "id": "3776216771.0",
         "name": "Diablos with Gerrit/Alex",
         "start_date_local": "2020-07-17T07:40:13Z",
@@ -1276,7 +1372,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "54",
+        "": "58",
         "id": "3764120551.0",
         "name": "Afternoon Ride",
         "start_date_local": "2020-07-14T16:04:38Z",
@@ -1300,7 +1396,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "55",
+        "": "59",
         "id": "3737824805.0",
         "name": "Morning Ride",
         "start_date_local": "2020-07-09T09:56:58Z",
@@ -1324,7 +1420,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "56",
+        "": "60",
         "id": "3734344367.0",
         "name": "Stanford/South PA Ride",
         "start_date_local": "2020-07-08T16:06:30Z",
@@ -1348,7 +1444,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "57",
+        "": "61",
         "id": "3723762928.0",
         "name": "Alameda Pulgas Ride",
         "start_date_local": "2020-07-06T11:36:50Z",
@@ -1372,7 +1468,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "59",
+        "": "63",
         "id": "3714580308.0",
         "name": "Palo Alto Hills Independence Day Ride",
         "start_date_local": "2020-07-04T15:09:38Z",
@@ -1396,7 +1492,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "62",
+        "": "66",
         "id": "3690933094.0",
         "name": "Afternoon Ride",
         "start_date_local": "2020-06-29T14:53:09Z",
@@ -1420,7 +1516,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "64",
+        "": "68",
         "id": "3671869457.0",
         "name": "Afternoon Ride with Alex",
         "start_date_local": "2020-06-25T14:34:46Z",
@@ -1444,7 +1540,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "65",
+        "": "69",
         "id": "3667036092.0",
         "name": "Foothills/Arastradero Afternoon Ride",
         "start_date_local": "2020-06-24T16:30:29Z",
@@ -1468,7 +1564,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "67",
+        "": "71",
         "id": "3656520650.0",
         "name": "Afternoon Ride",
         "start_date_local": "2020-06-22T15:06:02Z",
@@ -1492,7 +1588,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "70",
+        "": "74",
         "id": "3629536791.0",
         "name": "Afternoon Ride",
         "start_date_local": "2020-06-16T14:59:41Z",
@@ -1516,7 +1612,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "72",
+        "": "76",
         "id": "3619088902.0",
         "name": "Lake Lag ",
         "start_date_local": "2020-06-15T08:57:14Z",
@@ -1540,7 +1636,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "73",
+        "": "77",
         "id": "3618981553.0",
         "name": "Hike",
         "start_date_local": "2020-06-14T12:47:18Z",
@@ -1564,7 +1660,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "75",
+        "": "79",
         "id": "3590578375.0",
         "name": "After run cooldown",
         "start_date_local": "2020-06-09T16:13:48Z",
@@ -1588,7 +1684,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "76",
+        "": "80",
         "id": "3590629403.0",
         "name": "Afternoon Run",
         "start_date_local": "2020-06-09T14:54:35Z",
@@ -1612,7 +1708,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "77",
+        "": "81",
         "id": "3569261788.0",
         "name": "Quick Hills Run",
         "start_date_local": "2020-06-05T14:21:59Z",
@@ -1636,7 +1732,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "80",
+        "": "84",
         "id": "3544618888.0",
         "name": "Afternoon ride",
         "start_date_local": "2020-05-31T12:50:40Z",
@@ -1660,7 +1756,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "83",
+        "": "87",
         "id": "3528033546.0",
         "name": "Afternoon Ride",
         "start_date_local": "2020-05-28T13:50:47Z",
@@ -1684,7 +1780,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "84",
+        "": "88",
         "id": "3523100365.0",
         "name": "Afternoon Ride",
         "start_date_local": "2020-05-27T16:03:34Z",
@@ -1708,7 +1804,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "89",
+        "": "93",
         "id": "3474723700.0",
         "name": "Afternoon Ride",
         "start_date_local": "2020-05-18T15:49:51Z",
@@ -1732,7 +1828,7 @@
     {
       "type": "Feature",
       "properties": {
-        "": "91",
+        "": "95",
         "id": "3468002136.0",
         "name": "Afternoon Hike",
         "start_date_local": "2020-05-16T13:11:11Z",
