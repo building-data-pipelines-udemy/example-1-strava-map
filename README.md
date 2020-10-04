@@ -1,6 +1,6 @@
 # Example 1: Strava Map
 
-This app creates and updates a visualization of all Stefan's Strava uploads. Using the Strava API[url] and Mapbox, we can download Strava data and visualizes it on a beautiful, customized map. The Strava API extraction is run in a GCP VM, scheduled to run every Sunday at 7:00pm EST, and the React app itself is hosted on Google Cloud's App Engine. 
+This app creates and updates a visualization of all Stefan's Strava uploads. Using the Strava API[url] and Mapbox, we can download Strava data and visualizes it on a customized map. The Strava API extraction is run in a GCP VM, scheduled to run every Sunday at 7:00pm EST, and the React app itself is hosted on Google Cloud's App Engine. 
 
 In order to utilize this app yourself, you can use the dummy account's credentials, provided in the config.json file in the repository, or create your own Strava account and add your configurations. 
 
